@@ -1,0 +1,4 @@
+Person: Amy---Friends: Sam  
+Person: Sam---Friends: Amy  
+Person: Liza---Friends: Mark  
+Person: Mark---Friends: Liza  
